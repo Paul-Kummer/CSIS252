@@ -1,0 +1,16 @@
+Moderate Climb 5.10
+Y
+Easiest Climb 5.0
+Y
+Semi Easy Climb 5.4
+Y
+Scrambling 4.0
+Y
+Difficult Hiking 3.0
+Y
+Hardest Climb 5.15
+Y
+Easy Hiking 2.0
+N
+
+

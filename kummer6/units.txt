@@ -1,0 +1,74 @@
+bit, data, b, 8
+byte, data, B, 1
+warhol, time, warhol, .25
+liquid-gallon, volume, gal, 1
+imperial-gallon, volume, gal, 0.832674
+smoot, length, smoot, 1.7018
+mickey, length, mickey, 0.000127
+shake, time, shake, 0.0000000000027778
+jiffy, time, jiffy, .0000027778
+megabyte, data, MB, 1000000
+gigabyte, data, GB, 1000000000
+parsec, length, pc, 30856770000000000
+light-year, length, ly, 9461000000000000
+football-field, length, football-field, 91.44
+rack, length, U, 0.04445
+dozen, quantity, dz, 12
+gross, quantity, gr, 144
+league, length, league, 4828.032
+stone, mass, st, 6350.29
+meter, length, m, 1
+gallon, volume, gal, 1
+liter, volume, ltr, 0.264172
+millimeter, length, mm, 0.001
+centimeter, length, cm, 0.01
+decimeter, length, dm, 0.1
+kilometer, length, km, 1000
+inch, length, in, 0.0254
+yard, length, yd, 0.9144
+mile, length, mi, 1609.34
+square-meter, area, sq. m, 1
+acre, area, ac, 4046.86
+are, area, are, 100
+hectare, area, ha, 10000
+square-inch, area, sq in, 0.00064516
+square-foot, area, sq ft, 0.092903
+square-feet, area, sq ft, 0.092903
+square-yard, area, sq yd, 0.8361269999970039
+square-mile, area, sq mi, 2589986.9951907191426
+cubic-meter, volume, cu. m, 1
+milliliter, volume, ml, 0.000001
+centiliter, volume, cl, 0.00001
+deciliter, volume, dl, 0.0001
+hectoliter, volume, hl, 0.1
+cubic-inch, volume, cu in, 0.0000163871
+cubic-foot, volume, cu ft, 0.0283168
+cubic-yard, volume, cu yd, 0.764555
+acre-foot, volume, ac-ft, 1233.48
+teaspoon, volume, tsp, 0.00000492892
+tablespoon, volume, tbsp, 0.000014787
+fluid-ounce, volume, fl oz, 0.000029574
+cup, volume, c, 0.000236588
+gill, volume, gi, 0.000118294
+pint, volume, pt, 0.000473176
+quart, volume, qt, 0.000946353
+radian, angle, rad, 57.2958
+degree, angle, deg, 1
+second, time, s, 0.000277778
+minute, time, min, 0.0166667
+hour, time, hr, 1
+day, time, day, 24
+year, time, yr, 8760
+hertz, frequency, hz, 1
+miles-per-hour, speed, mph, 0.44704
+meters-per-second, speed, mps, 1
+gram, mass, g, 1
+kilogram, mass, kg, 1000
+grain, mass, gr, 0.0647989
+dram, mass, dr, 1.77185
+ounce, mass, oz, 28.3495
+pound, mass, lb, 453.592000004704
+ton, mass, t, 907184.00000940798782
+kelvin, temperature, K, 1
+centigrade, temperature, C, 273.15
+fahrenheit, temperature, F, 273.15
