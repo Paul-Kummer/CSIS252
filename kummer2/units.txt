@@ -1,0 +1,26 @@
+bit, data
+byte, data
+meter, distance
+feet, distance
+warhole, time
+minute, time
+liquid gallon, volume
+imperial gallon, volume
+smoot, distance
+mickey, distance
+millimeter, distance
+shake, time
+jiffy, time
+megabyte, data
+gigabyte, data
+parsecs, time
+light-year, distance
+hour, time
+horse, distance
+football field, distance
+rack, distance
+dozen, quantity
+gross, quantity
+league, distance
+stone, volume
+ounce, volume
